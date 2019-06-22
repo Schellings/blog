@@ -6,7 +6,7 @@ tags: 容器
 
 环境：CentOS 7.6
 
-# docker-ce 安装
+## docker-ce 安装
 1、卸载老版本，较老版本的Docker被称为docker或docker-engine。如果这些已安装，请卸载它们以及关联的依赖关系。
 
 ```
