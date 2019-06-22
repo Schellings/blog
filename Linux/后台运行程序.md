@@ -1,0 +1,18 @@
+---
+title: Linux后台运行程序
+date: 2019-04-07 16:56:24
+tags: Linux
+---
+# Linux后台运行程序
+
+命令格式：
+```yaml
+nohup 执行命令 > 保存日志文件 2>&1 &
+```
+举例:
+```yaml
+nohup ./run-aaa.sh > output.log 2>&1 &
+```
+此时run-aaa.sh开始在后台执行，并且输出被重定向到了当前目录的output.log文件。
+
+注： **退出SSH终端的时候注意要用 exit 命令退出，否则可能出意外。**
