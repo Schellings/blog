@@ -4,7 +4,7 @@ date: 2019-03-23 16:56:24
 tags: Git
 ---
 # Git常用命令总结
-# git init
+##  git init
 
 在本地新建一个repo,进入一个项目目录,执行git init,会初始化一个repo,并在当前文件夹下创建一个.git文件夹.
  
