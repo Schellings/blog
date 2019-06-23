@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7111a1f9-8590-4b0a-a365-4b12261719dc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Redis/Redis安装后的常用配置（for windows）.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Redis/Redis安装后的常用配置（for windows）.md" beforeDir="false" afterPath="$PROJECT_DIR$/Redis/Redis安装后的常用配置（for windows）.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -69,7 +68,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor>
-                <caret selection-end-line="3" selection-end-column="30" />
+                <caret selection-end-line="4" />
               </first_editor>
               <second_editor />
             </state>
@@ -128,8 +127,8 @@
         <entry file="file://$PROJECT_DIR$/Redis/Redis安装后的常用配置（for windows）.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="277">
-                <caret line="24" column="137" selection-start-line="24" selection-start-column="137" selection-end-line="24" selection-end-column="137" />
+              <first_editor relative-caret-position="100">
+                <caret line="4" column="3" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
               </first_editor>
               <second_editor />
             </state>
@@ -276,12 +275,12 @@
       <workItem from="1561167606495" duration="971000" />
       <workItem from="1561168604701" duration="12918000" />
       <workItem from="1561216779334" duration="2948000" />
-      <workItem from="1561280216547" duration="1523000" />
+      <workItem from="1561280216547" duration="1722000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18689000" />
+    <option name="totallyTimeSpent" value="18888000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -299,9 +298,9 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.31303117" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.31303117" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="File Transfer" order="11" visible="true" weight="0.30311614" />
+      <window_info anchor="bottom" id="File Transfer" order="11" weight="0.30311614" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -709,7 +708,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor>
-            <caret selection-end-line="3" selection-end-column="30" />
+            <caret selection-end-line="4" />
           </first_editor>
           <second_editor />
         </state>
@@ -763,8 +762,8 @@
     <entry file="file://$PROJECT_DIR$/Redis/Redis安装后的常用配置（for windows）.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="277">
-            <caret line="24" column="137" selection-start-line="24" selection-start-column="137" selection-end-line="24" selection-end-column="137" />
+          <first_editor relative-caret-position="100">
+            <caret line="4" column="3" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
           </first_editor>
           <second_editor />
         </state>

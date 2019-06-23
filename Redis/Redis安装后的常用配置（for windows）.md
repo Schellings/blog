@@ -1,5 +1,5 @@
 ---
-title: CentOS7利用yum快速安装node.js
+title: Redis安装后的常用配置（for windows）
 date: 2019-04-17 19:11:12
 tags: Redis
 ---
