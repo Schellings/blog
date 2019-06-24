@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7111a1f9-8590-4b0a-a365-4b12261719dc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/工具使用/cmder在win10下的安装和配置.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nginx/Nginx+Tomcat实现Web服务器的负载均衡.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/分布式/分布式环境下4种共享session处理策略.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/工具使用/cmder在win10下的安装和配置.md" beforeDir="false" afterPath="$PROJECT_DIR$/工具使用/cmder在win10下的安装和配置.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -40,12 +42,12 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/工具使用/cmder在win10下的安装和配置.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="336">
-                <caret line="81" column="3" lean-forward="true" selection-start-line="81" selection-start-column="3" selection-end-line="81" selection-end-column="3" />
+              <first_editor>
+                <caret selection-end-line="5" selection-end-column="3" />
               </first_editor>
               <second_editor />
             </state>
@@ -53,23 +55,23 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/分布式/分布式线程安全-Zookeeper.md">
+        <entry file="file://$PROJECT_DIR$/分布式/分布式环境下4种共享session处理策略.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="150">
-                <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+              <first_editor>
+                <caret selection-end-line="6" selection-end-column="3" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/分布式/分布式线程安全-数据库.md">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Nginx/Nginx+Tomcat实现Web服务器的负载均衡.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="150">
-                <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+              <first_editor relative-caret-position="291">
+                <caret line="174" lean-forward="true" selection-start-line="174" selection-end-line="174" />
               </first_editor>
               <second_editor />
             </state>
@@ -144,10 +146,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/MySQL/MySQL使用/Eclipse JDBC Class.forName(Unknown Source).md" />
-        <option value="$PROJECT_DIR$/Maven/Maven安装与配置.md" />
-        <option value="$PROJECT_DIR$/Maven/Maven常用命令.md" />
-        <option value="$PROJECT_DIR$/Linux/使用ssh连接虚拟机.md" />
         <option value="$PROJECT_DIR$/Linux/ssh登录Linux服务器失败.md" />
         <option value="$PROJECT_DIR$/Linux/ping+ifconfig命令无法使用.md" />
         <option value="$PROJECT_DIR$/Linux/一、Linux基本命令.md" />
@@ -195,6 +193,10 @@
         <option value="$PROJECT_DIR$/分布式/分布式线程安全-Redis缓存.md" />
         <option value="$PROJECT_DIR$/工具使用/Hexo+Yelee博客搭建.md" />
         <option value="$PROJECT_DIR$/工具使用/cmder在win10下的安装和配置.md" />
+        <option value="$PROJECT_DIR$/分布式/集群/分布式环境下5种共享session处理策略.md" />
+        <option value="$PROJECT_DIR$/分布式/分布式环境下5种共享session处理策略.md" />
+        <option value="$PROJECT_DIR$/分布式/分布式环境下4种共享session处理策略.md" />
+        <option value="$PROJECT_DIR$/Nginx/Nginx+Tomcat实现Web服务器的负载均衡.md" />
       </list>
     </option>
   </component>
@@ -228,12 +230,7 @@
             <path>
               <item name="blog" type="b2602c69:ProjectViewProjectNode" />
               <item name="blog" type="462c0819:PsiDirectoryNode" />
-              <item name="协议" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="blog" type="b2602c69:ProjectViewProjectNode" />
-              <item name="blog" type="462c0819:PsiDirectoryNode" />
-              <item name="工具使用" type="462c0819:PsiDirectoryNode" />
+              <item name="分布式" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -255,13 +252,14 @@
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\WorkSpace\Html\blog\工具使用" />
-      <recent name="D:\WorkSpace\Html\blog\协议" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\WorkSpace\Html\blog" />
       <recent name="D:\WorkSpace\Html\blog\算法与数据结构" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\WorkSpace\Html\blog\分布式" />
+      <recent name="D:\WorkSpace\Html\blog\工具使用" />
+      <recent name="D:\WorkSpace\Html\blog\协议" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -293,12 +291,12 @@
       <workItem from="1561280216547" duration="7224000" />
       <workItem from="1561296116899" duration="2142000" />
       <workItem from="1561336439718" duration="474000" />
-      <workItem from="1561377803080" duration="3672000" />
+      <workItem from="1561377803080" duration="7071000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30678000" />
+    <option name="totallyTimeSpent" value="34077000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -316,7 +314,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.3101983" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.28328612" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50067025" side_tool="true" weight="0.3371105" />
       <window_info anchor="bottom" id="File Transfer" order="11" sideWeight="0.49932975" weight="0.30311614" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -329,26 +327,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Spring Boot/Spring Boot监控与管理.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="50">
-            <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MySQL/MySQL性能优化/MySQL性能优化-1.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor>
-            <caret selection-end-line="4" selection-end-column="3" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/MySQL/MySQL查询/MySQL查询优化-1.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -824,6 +802,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/工具使用/cmder在win10下的安装和配置.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret selection-end-line="5" selection-end-column="3" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/工具使用/Hexo+Yelee博客搭建.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -834,11 +822,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/工具使用/cmder在win10下的安装和配置.md">
+    <entry file="file://$PROJECT_DIR$/分布式/分布式环境下4种共享session处理策略.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="336">
-            <caret line="81" column="3" lean-forward="true" selection-start-line="81" selection-start-column="3" selection-end-line="81" selection-end-column="3" />
+          <first_editor>
+            <caret selection-end-line="6" selection-end-column="3" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Nginx/Nginx+Tomcat实现Web服务器的负载均衡.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="291">
+            <caret line="174" lean-forward="true" selection-start-line="174" selection-end-line="174" />
           </first_editor>
           <second_editor />
         </state>

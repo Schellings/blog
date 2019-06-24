@@ -1,5 +1,5 @@
 ---
-title: CentOS 7.6 Hexo+Yelee博客搭建
+title: cmder在win10下的安装和配置
 date: 2018-12-21 19:56:24
 tags: 
     - 工具使用
