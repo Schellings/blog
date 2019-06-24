@@ -1,7 +1,9 @@
 ---
-title: Nginx初识
+title: Nginx代理与负载均衡
 date: 2019-01-25 16:56:24
-tags: Nginx
+tags: 
+    - Nginx
+    - 代理
 ---
 # nginx概述
 1、nginx是一款自由的、开源的、高性能的HTTP服务器和反向代理服务器

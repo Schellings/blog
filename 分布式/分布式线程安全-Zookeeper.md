@@ -1,7 +1,10 @@
 ---
 title: 分布式线程安全-Zookeeper
 date: 2019-01-15 19:56:24
-tags: 分布式
+tags: 
+    - 分布式
+    - 线程
+top: 10
 ---
 # 基于Zookeeper实现的分布式锁
 基于zookeeper临时有序节点可以实现的分布式锁。

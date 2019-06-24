@@ -1,7 +1,11 @@
 ---
 title: HTTP和HTTPS协议解析（二）
-date: 2019-01-07 21:56:24
-tags: 通信协议
+date: 2019-01-08 19:56:24
+tags: 
+    - 通信协议
+    - HTTP
+    - HTTPS
+top: 10
 ---
 
 # 四、HTTP通信传输
