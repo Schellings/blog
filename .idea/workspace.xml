@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7111a1f9-8590-4b0a-a365-4b12261719dc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Nginx/Nginx安装与配置.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nginx/Nginx代理与负载均衡.md" beforeDir="false" afterPath="$PROJECT_DIR$/Nginx/Nginx代理与负载均衡.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nginx/Nginx安装与配置.md" beforeDir="false" afterPath="$PROJECT_DIR$/Nginx/Nginx安装与配置.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -69,8 +67,8 @@
         <entry file="file://$PROJECT_DIR$/Nginx/Nginx安装与配置.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="316">
-                <caret line="35" column="13" lean-forward="true" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
+              <first_editor relative-caret-position="75">
+                <caret line="3" column="6" lean-forward="true" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
               </first_editor>
               <second_editor />
             </state>
@@ -250,18 +248,18 @@
       <workItem from="1561377803080" duration="9690000" />
       <workItem from="1561418606452" duration="2111000" />
       <workItem from="1561422926544" duration="773000" />
-      <workItem from="1561476772677" duration="625000" />
+      <workItem from="1561476772677" duration="700000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40205000" />
+    <option name="totallyTimeSpent" value="40280000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25268096" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25268096" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -273,9 +271,9 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49932975" weight="0.21923621" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.49932975" visible="true" weight="0.2181303" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50067025" side_tool="true" weight="0.21954674" />
-      <window_info anchor="bottom" id="File Transfer" order="11" sideWeight="0.49865952" visible="true" weight="0.30311614" />
+      <window_info anchor="bottom" id="File Transfer" order="11" sideWeight="0.49865952" weight="0.30311614" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -794,8 +792,8 @@
     <entry file="file://$PROJECT_DIR$/Nginx/Nginx安装与配置.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="316">
-            <caret line="35" column="13" lean-forward="true" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
+          <first_editor relative-caret-position="75">
+            <caret line="3" column="6" lean-forward="true" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
           </first_editor>
           <second_editor />
         </state>

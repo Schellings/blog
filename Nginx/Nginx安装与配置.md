@@ -1,5 +1,5 @@
 ---
-title: Nginx代理与负载均衡
+title: Nginx安装与配置
 date: 2019-01-24 16:56:24
 tags: 
     - Nginx
