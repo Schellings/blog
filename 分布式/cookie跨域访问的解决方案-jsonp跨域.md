@@ -1,5 +1,5 @@
 ---
-title: cookie跨域访问的解决方案-Nginx反向代理
+title: cookie跨域访问的解决方案-jsonp跨域
 date: 2019-05-21 19:56:24
 tags: 
     - Cookie跨域
