@@ -2,7 +2,74 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7111a1f9-8590-4b0a-a365-4b12261719dc" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Nginx/Nginx安装与配置.md" beforeDir="false" afterPath="$PROJECT_DIR$/Nginx/Nginx安装与配置.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/剑指offer/剑指offer面试题10--斐波那契数列.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/剑指offer/剑指offer面试题11--旋转数组中的最小数字.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/剑指offer/剑指offer面试题12--矩阵中的路径.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/剑指offer/剑指offer面试题13--机器人的运动范围.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/剑指offer/剑指offer面试题14--剪绳子.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/剑指offer/剑指offer面试题15--二进制中1的个数.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/剑指offer/剑指offer面试题16--数值的整数次方.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/剑指offer/剑指offer面试题17--打印从1到最大的n位十进制数.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/剑指offer/剑指offer面试题18--删除链表的结点.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/剑指offer/剑指offer面试题19--正则表达式匹配.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/剑指offer/剑指offer面试题2--单例模式.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/剑指offer/剑指offer面试题20--表示数值的字符串.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/剑指offer/剑指offer面试题21--调整数组的顺序使奇数位于偶数前面.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/剑指offer/剑指offer面试题22--链表中倒数第k个结点.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/剑指offer/剑指offer面试题23--链表中环的入口结点.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/剑指offer/剑指offer面试题24--反转链表.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/剑指offer/剑指offer面试题25--合并两个有序链表.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/剑指offer/剑指offer面试题26--树的子结构.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/剑指offer/剑指offer面试题27--对称的二叉树.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/剑指offer/剑指offer面试题28--二叉树的镜像.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/剑指offer/剑指offer面试题29--顺时针打印矩阵.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/剑指offer/剑指offer面试题3--数组中的重复数字.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/剑指offer/剑指offer面试题30--包含min方法的栈.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/剑指offer/剑指offer面试题31--栈的压入、弹出序列.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/剑指offer/剑指offer面试题32--从上到下打印二叉树.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/剑指offer/剑指offer面试题33--二叉搜索树的后序遍历序列.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/剑指offer/剑指offer面试题34--二叉树中和为某一值的路径.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/剑指offer/剑指offer面试题35--复杂链表的复制.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/剑指offer/剑指offer面试题36--二叉搜索树与双向链表.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/剑指offer/剑指offer面试题37--序列化二叉树.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/剑指offer/剑指offer面试题38--字符串的排列.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/剑指offer/剑指offer面试题39--数组中出现次数超过一半的数字.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/剑指offer/剑指offer面试题4--二维数组中的查找.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/剑指offer/剑指offer面试题40--最小的k个数.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/剑指offer/剑指offer面试题41--数据流中的中位数.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/剑指offer/剑指offer面试题42--连续子数组的最大和.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/剑指offer/剑指offer面试题43--1~n整数中1出现的次数.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/剑指offer/剑指offer面试题44--数字序列中的某一位数字.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/剑指offer/剑指offer面试题45--把数组排成最小的数.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/剑指offer/剑指offer面试题46--把数字翻译成字符串.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/剑指offer/剑指offer面试题47--礼物的最大价值.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/剑指offer/剑指offer面试题48--最长不含重复字符串的子字符串.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/剑指offer/剑指offer面试题49--丑数.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/剑指offer/剑指offer面试题5--替换空格.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/剑指offer/剑指offer面试题50--第一个只出现一次的字符.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/剑指offer/剑指offer面试题51--在排序数组中查找数字.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/剑指offer/剑指offer面试题52--两个链表的第一个公共结点.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/剑指offer/剑指offer面试题53--数组中的逆序对.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/剑指offer/剑指offer面试题54--二叉搜索树中排名为k的结点.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/剑指offer/剑指offer面试题55--二叉树的深度.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/剑指offer/剑指offer面试题56--数组中数字出现的次数.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/剑指offer/剑指offer面试题57--和为s的数字.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/剑指offer/剑指offer面试题58--反转字符串.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/剑指offer/剑指offer面试题59--队列的最大值.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/剑指offer/剑指offer面试题6--从尾到头打印链表.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/剑指offer/剑指offer面试题60--n个骰子的点数.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/剑指offer/剑指offer面试题61--扑克牌中的顺子.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/剑指offer/剑指offer面试题62--圆圈中最后剩下的数字.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/剑指offer/剑指offer面试题63--股票的最大利润.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/剑指offer/剑指offer面试题64--求1+2+3+...+n.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/剑指offer/剑指offer面试题65--不用加减乘除做加法.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/剑指offer/剑指offer面试题66--构建乘积数组.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/剑指offer/剑指offer面试题67--把字符串转换成整数.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/剑指offer/剑指offer面试题68--树中两个结点的最低公共祖先.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/剑指offer/剑指offer面试题7--重建二叉树.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/剑指offer/剑指offer面试题8--二叉树中序遍历的下一个结点.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/剑指offer/剑指offer面试题9--两个栈实现队列.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -27,61 +94,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Java/浅谈Java中的volatile.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="175">
-                <caret line="7" selection-start-line="7" selection-end-line="7" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/分布式/cookie跨域访问的解决方案-jsonp跨域.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="150">
-                <caret line="6" column="3" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Nginx/Nginx代理与负载均衡.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="202">
-                <caret line="107" column="44" selection-start-line="107" selection-start-column="44" selection-end-line="107" selection-end-column="44" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Nginx/Nginx安装与配置.md">
+        <entry file="file://$PROJECT_DIR$/剑指offer/剑指offer面试题2--单例模式.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="75">
-                <caret line="3" column="6" lean-forward="true" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/分布式/分布式环境下4种共享session处理策略.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor>
-                <caret selection-end-line="6" selection-end-column="3" />
-              </first_editor>
+              <first_editor />
               <second_editor />
             </state>
           </provider>
@@ -95,17 +112,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Linux/四、压缩（解压）文件操作.md" />
-        <option value="$PROJECT_DIR$/Linux/五、查找命令.md" />
-        <option value="$PROJECT_DIR$/Linux/六、su、sudo.md" />
-        <option value="$PROJECT_DIR$/Linux/七、其他命令.md" />
-        <option value="$PROJECT_DIR$/Git/Git环境安装.md" />
-        <option value="$PROJECT_DIR$/Docker/docker国内镜像加速.md" />
-        <option value="$PROJECT_DIR$/Docker/docker常用命令总结.md" />
-        <option value="$PROJECT_DIR$/Linux/后台运行程序.md" />
-        <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/Git/Git常用命令.md" />
-        <option value="$PROJECT_DIR$/Docker/docker简介与安装.md" />
         <option value="$PROJECT_DIR$/index.md" />
         <option value="$PROJECT_DIR$/工具使用/Hexo主题Yelee增加网站阅读统计.md" />
         <option value="$PROJECT_DIR$/工具使用/d.md" />
@@ -146,14 +152,25 @@
         <option value="$PROJECT_DIR$/分布式/cookie跨域访问的解决方案-jsonp跨域.md" />
         <option value="$PROJECT_DIR$/Nginx/Nginx代理与负载均衡.md" />
         <option value="$PROJECT_DIR$/Nginx/Nginx安装与配置.md" />
+        <option value="$PROJECT_DIR$/剑指offer/内容概览.md" />
+        <option value="$PROJECT_DIR$/剑指offer/链表/剑指offer面试题3--从尾到头打印链表.md" />
+        <option value="$PROJECT_DIR$/剑指offer/链表/剑指offer面试题14--链表中倒数第k个结点.md" />
+        <option value="$PROJECT_DIR$/剑指offer/链表/剑指offer面试题56——删除链表重复的结点.md" />
+        <option value="$PROJECT_DIR$/剑指offer/链表/剑指offer面试题56——删除链表的结点.md" />
+        <option value="$PROJECT_DIR$/剑指offer/链表/剑指offer面试题55--链表中环的入口结点.md" />
+        <option value="$PROJECT_DIR$/剑指offer/链表/剑指offer面试题52--两个链表的第一个公共结点.md" />
+        <option value="$PROJECT_DIR$/剑指offer/链表/剑指offer面试题36--复杂链表的复制.md" />
+        <option value="$PROJECT_DIR$/剑指offer/链表/剑指offer面试题16--合并两个有序链表.md" />
+        <option value="$PROJECT_DIR$/剑指offer/链表/剑指offer面试题15--反转链表.md" />
+        <option value="$PROJECT_DIR$/剑指offer/链表/剑指offer面试题56--删除链表的结点.md" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-10" />
-    <option name="y" value="-10" />
-    <option name="width" value="1939" />
-    <option name="height" value="1049" />
+    <option name="x" value="302" />
+    <option name="y" value="407" />
+    <option name="width" value="1940" />
+    <option name="height" value="1050" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -173,17 +190,12 @@
             <path>
               <item name="blog" type="b2602c69:ProjectViewProjectNode" />
               <item name="blog" type="462c0819:PsiDirectoryNode" />
-              <item name="Java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="blog" type="b2602c69:ProjectViewProjectNode" />
-              <item name="blog" type="462c0819:PsiDirectoryNode" />
-              <item name="Nginx" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="blog" type="b2602c69:ProjectViewProjectNode" />
-              <item name="blog" type="462c0819:PsiDirectoryNode" />
               <item name="分布式" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="blog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="blog" type="462c0819:PsiDirectoryNode" />
+              <item name="剑指offer" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -200,20 +212,22 @@
     <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/剑指offer" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\WorkSpace\Html\blog" />
-      <recent name="D:\WorkSpace\Html\blog\算法与数据结构" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\WorkSpace\Html\blog\分布式" />
       <recent name="D:\WorkSpace\Html\blog\工具使用" />
       <recent name="D:\WorkSpace\Html\blog\协议" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\WorkSpace\Html\blog\剑指offer" />
+      <recent name="D:\WorkSpace\Html\blog\剑指offer\链表" />
+      <recent name="D:\WorkSpace\Html\blog" />
+      <recent name="D:\WorkSpace\Html\blog\算法与数据结构" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -248,18 +262,19 @@
       <workItem from="1561377803080" duration="9690000" />
       <workItem from="1561418606452" duration="2111000" />
       <workItem from="1561422926544" duration="773000" />
-      <workItem from="1561476772677" duration="700000" />
+      <workItem from="1561476772677" duration="1558000" />
+      <workItem from="1561549426858" duration="8386000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40280000" />
+    <option name="totallyTimeSpent" value="49524000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25268096" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25603217" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -271,9 +286,9 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.49932975" visible="true" weight="0.2181303" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49932975" weight="0.4957627" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50067025" side_tool="true" weight="0.21954674" />
-      <window_info anchor="bottom" id="File Transfer" order="11" sideWeight="0.49865952" weight="0.30311614" />
+      <window_info anchor="bottom" id="File Transfer" order="11" sideWeight="0.49865952" visible="true" weight="0.18271954" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -284,146 +299,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/MySQL/MySQL使用/MySQL无法连接 Unable to load authentication plugin 'caching_sha2_password'.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor>
-            <caret selection-end-line="4" selection-end-column="3" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MySQL/MySQL使用/执行MySQL语句报错：the right syntax to use near xxx.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor>
-            <caret selection-end-line="4" selection-end-column="3" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MySQL/MySQL使用/JDBC连接MySQL报错Unknown system variable 'query_cache_size'.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor>
-            <caret selection-end-line="4" selection-end-column="3" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MySQL/MySQL使用/Eclipse JDBC Class.forName(Unknown Source).md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor>
-            <caret selection-end-line="4" selection-end-column="3" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Maven/Maven安装与配置.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor>
-            <caret selection-end-line="4" selection-end-column="3" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Maven/Maven常用命令.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor>
-            <caret selection-end-line="4" selection-end-column="3" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Linux/使用ssh连接虚拟机.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor>
-            <caret selection-end-line="4" selection-end-column="3" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Linux/ssh登录Linux服务器失败.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor>
-            <caret selection-end-line="4" selection-end-column="3" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Linux/ping+ifconfig命令无法使用.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="25">
-            <caret line="1" selection-start-line="1" selection-end-line="5" selection-end-column="3" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Linux/一、Linux基本命令.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor>
-            <caret selection-end-line="4" selection-end-column="3" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Linux/二、目录操作命令.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor>
-            <caret selection-end-line="4" selection-end-column="3" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Linux/三、文件操作命令.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="75">
-            <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Linux/四、压缩（解压）文件操作.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="50">
-            <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Linux/五、查找命令.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="50">
-            <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Linux/六、su、sudo.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -515,17 +390,17 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Node.js/CentOS7利用yum快速安装node.md">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
-        </state>
-      </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor>
             <caret selection-end-line="4" selection-end-column="3" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -739,21 +614,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/分布式/cookie跨域访问的解决方案-Nginx反向代理.md">
+    <entry file="file://$PROJECT_DIR$/分布式/cookie跨域访问的解决方案-jsonp跨域.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor>
-            <caret selection-end-line="7" selection-end-column="3" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Java/浅谈Java中的volatile.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="175">
-            <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <first_editor relative-caret-position="150">
+            <caret line="6" column="3" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
           </first_editor>
           <second_editor />
         </state>
@@ -769,11 +634,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/分布式/cookie跨域访问的解决方案-jsonp跨域.md">
+    <entry file="file://$PROJECT_DIR$/Nginx/Nginx安装与配置.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="150">
-            <caret line="6" column="3" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+          <first_editor relative-caret-position="125">
+            <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
           </first_editor>
           <second_editor />
         </state>
@@ -782,19 +647,161 @@
     <entry file="file://$PROJECT_DIR$/Nginx/Nginx代理与负载均衡.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="202">
+          <first_editor relative-caret-position="2377">
             <caret line="107" column="44" selection-start-line="107" selection-start-column="44" selection-end-line="107" selection-end-column="44" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Nginx/Nginx安装与配置.md">
+    <entry file="file://$PROJECT_DIR$/Java/浅谈Java中的volatile.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="75">
-            <caret line="3" column="6" lean-forward="true" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+          <first_editor>
+            <caret selection-end-line="6" selection-end-column="3" />
           </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/剑指offer/链表/剑指offer面试题3--从尾到头打印链表.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret selection-end-line="7" selection-end-column="3" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/剑指offer/链表/剑指offer面试题14--链表中倒数第k个结点.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret selection-end-line="7" selection-end-column="3" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/剑指offer/链表/剑指offer面试题55--链表中环的入口结点.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="25">
+            <caret line="1" column="30" selection-start-line="1" selection-start-column="30" selection-end-line="1" selection-end-column="30" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/剑指offer/链表/剑指offer面试题52--两个链表的第一个公共结点.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="25">
+            <caret line="1" column="34" selection-start-line="1" selection-start-column="34" selection-end-line="1" selection-end-column="34" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/剑指offer/链表/剑指offer面试题36--复杂链表的复制.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="25">
+            <caret line="1" column="28" selection-start-line="1" selection-start-column="28" selection-end-line="1" selection-end-column="28" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/剑指offer/链表/剑指offer面试题16--合并两个有序链表.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="25">
+            <caret line="1" column="29" selection-start-line="1" selection-start-column="29" selection-end-line="1" selection-end-column="29" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/剑指offer/链表/剑指offer面试题15--反转链表.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="25">
+            <caret line="1" column="25" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="25" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/剑指offer/链表/剑指offer面试题56--删除链表的结点.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="125">
+            <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/剑指offer/回溯/剑指offer面试题12--矩阵中的路径.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/剑指offer/其他/剑指offer面试题49--丑数.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/剑指offer/其他/剑指offer面试题2--单例模式.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/剑指offer/剑指offer内容概览.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="2750">
+            <caret line="110" lean-forward="true" selection-end-line="152" selection-end-column="27" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/剑指offer/递归/剑指offer面试题10--斐波那契数列.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="525">
+            <caret line="21" column="18" lean-forward="true" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/分布式/cookie跨域访问的解决方案-Nginx反向代理.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret selection-end-line="7" selection-end-column="3" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/剑指offer/剑指offer面试题2--单例模式.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
           <second_editor />
         </state>
       </provider>
