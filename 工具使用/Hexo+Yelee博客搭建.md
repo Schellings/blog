@@ -68,7 +68,7 @@ hexo init
 此时hexo博客的基础目录已经创建，需要进行相应配置，[参照此处](https://hexo.io/zh-cn/docs/)
 
 ### yelee主题下载
-参照yelee文档—>[传送门](http://moxfive.coding.me/yelee/1.Getting-Started/installation.html)
+参照yelee文档—>[传送门](http://moxfive.coding.me/yelee/)
 
 ## hexo常用命令
 
