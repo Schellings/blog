@@ -1,3 +1,10 @@
+---
+title: Mybatis工作原理
+date: 2018-06-05 19:56:24
+tags: 
+    - ORM
+    - Mybatis
+---
 ## 引言
 在mybatis的基础知识中我们已经可以对mybatis的工作方式窥斑见豹。但是，为什么还要要学习mybatis的工作原理？
 
