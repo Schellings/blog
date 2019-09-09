@@ -28,6 +28,7 @@ MSSQL:
    username:sa
    password:pass@word1
 
+注：navicat中指定mssql的端口是通过在主机中通过逗号分隔指定端口：如
 ## docker安装oracle
 
 ### 安装
