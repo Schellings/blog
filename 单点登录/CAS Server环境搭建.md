@@ -61,3 +61,4 @@ server.name=http://localhost:8080
 
 >注：如果不处理步骤4，cas登录成功后直接刷新又会回到登录页。
 
+（5）重启tomcat
