@@ -2,8 +2,8 @@
 <project version="4">
   <component name="WebServers">
     <option name="servers">
-      <webServer id="a67d5692-f205-44f8-8696-450918bd4d87" name="blog" url="http://192.168.145.132">
-        <fileTransfer host="192.168.145.132" port="22" rootFolder="/root/blog" accessType="SFTP">
+      <webServer id="a67d5692-f205-44f8-8696-450918bd4d87" name="blog" url="http://www.xielin.top">
+        <fileTransfer host="www.xielin.top" port="22" rootFolder="/root/WorkSpace/hexo/source/_posts" accessType="SFTP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
