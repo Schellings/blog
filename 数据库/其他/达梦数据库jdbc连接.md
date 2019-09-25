@@ -16,7 +16,7 @@ public class BasicApp {
 	String jdbcString = "dm.jdbc.driver.DmDriver";
 /*
  * 定义 DM URL 连接串
- * 此处/CAS是指与下方sysdba创建的同名模式
+ * 此处/CAS是指与下方CAS创建的同名模式，达梦数据库通过登录的用户名来区分使用模式。
  */
 	String urlString = "jdbc:dm://localhost:5236/CAS";
 /* 定义连接用户名 */
