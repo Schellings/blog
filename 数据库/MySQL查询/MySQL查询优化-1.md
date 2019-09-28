@@ -57,7 +57,7 @@ select id from t where num between 1 and 3
 ```
 select id from t where name like '%abc%'
 ```
-若要提高效率，可以考虑全文检索引擎。
+若要提高效率，可以考虑全文检索引擎（比如ES）。
 
 - 7、如果在 where 子句中使用参数，也会导致全表扫描。
 
