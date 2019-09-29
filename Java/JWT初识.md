@@ -2,7 +2,7 @@
 title: JWT初识
 date: 2019-07-05 19:56:24
 tags: 
-    - 前后端通信
+    - 加密
 ---
 
 ## JWT(JSON Web Token)
