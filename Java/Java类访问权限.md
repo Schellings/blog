@@ -1,5 +1,5 @@
 ---
-title: Java中public、private、protected、默认四种访问权限
+title: Java类访问权限
 date: 2018-05-25 19:56:24
 tags: 
     - Java
