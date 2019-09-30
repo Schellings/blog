@@ -152,8 +152,3 @@ health status index uuid pri rep docs.count docs.deleted store.size pri.store.si
 - 创建文档（添加数据）curl -X PUT "localhost:9200/customer/_doc/1" -H 'Content-Type: application/json' -d'{  "name": "John Doe"}'
 - 查询文档（查询数据）curl -X GET "localhost:9200/customer/_doc/1"
 - 删除文档（删除数据）curl -X DELETE "localhost:9200/customer"
- 
- 
-
-
-
