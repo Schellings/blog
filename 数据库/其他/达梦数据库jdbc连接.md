@@ -1,7 +1,7 @@
 ---
 title: 达梦数据库jdbc连接
-date: 2019-09-01 16:56:24
-tags: jdbc
+date: 2018-09-01 16:56:24
+tags: 数据库
 ---
 ```java
 import java.sql.Connection;

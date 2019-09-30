@@ -1,6 +1,6 @@
 ---
 title: 六、su、sudo
-date: 2019-03-12 16:56:24
+date: 2018-03-12 16:56:24
 tags: Linux
 ---
 # 六、su、sudo

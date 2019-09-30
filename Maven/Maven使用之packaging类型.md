@@ -1,6 +1,6 @@
 ---
 title: maven使用之packaging类型
-date: 2019-07-21 16:56:24
+date: 2018-07-21 16:56:24
 tags: Maven
 ---
 

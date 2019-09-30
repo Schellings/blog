@@ -1,6 +1,6 @@
 ---
 title: com.mysql.jdbc.Driver 和 com.mysql.cj.jdbc.Driver的区别
-date: 2019-02-14 16:56:24
+date: 2018-02-14 16:56:24
 tags: MySQL
 ---
 一句话：

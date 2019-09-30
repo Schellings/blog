@@ -1,6 +1,6 @@
 ---
 title: 常见的Nginx 502 Bad Gateway解决办法
-date: 2019-09-10 16:56:24
+date: 2018-09-10 16:56:24
 tags: 
     - Nginx
 ---

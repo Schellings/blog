@@ -1,6 +1,6 @@
 ---
 title: JDBC连接MySQL报错Unknown system variable 'query_cache_size'
-date: 2019-02-18 16:56:24
+date: 2018-02-18 16:56:24
 tags: MySQL
 ---
 # 问题描述

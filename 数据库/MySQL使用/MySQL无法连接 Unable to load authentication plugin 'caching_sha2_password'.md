@@ -1,6 +1,6 @@
 ---
 title: MySQL无法连接 Unable to load authentication plugin 'caching_sha2_password'
-date: 2019-02-16 16:56:24
+date: 2018-02-16 16:56:24
 tags: MySQL
 ---
 # 问题分析

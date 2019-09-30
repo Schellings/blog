@@ -1,6 +1,6 @@
 ---
 title: 执行MySQL语句报错：the right syntax to use near xxx
-date: 2019-02-16 16:56:24
+date: 2018-02-16 16:56:24
 tags: MySQL
 ---
 # 问题产生的原因：

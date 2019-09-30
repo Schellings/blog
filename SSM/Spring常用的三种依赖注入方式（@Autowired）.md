@@ -1,6 +1,6 @@
 ---
 title: Spring常用的三种依赖注入方式（@Autowired）
-date: 2018-07-05 19:56:24
+date: 2017-07-05 19:56:24
 tags: 
     - Spring
 ---

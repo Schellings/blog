@@ -1,6 +1,6 @@
 ---
 title: cookie跨域访问的解决方案-Nginx反向代理
-date: 2019-05-17 19:56:24
+date: 2018-05-17 19:56:24
 tags: 
     - Cookie跨域
     - Nginx

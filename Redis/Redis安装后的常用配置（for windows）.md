@@ -1,6 +1,6 @@
 ---
 title: Redis安装后的常用配置（for windows）
-date: 2019-04-17 19:11:12
+date: 2018-04-17 19:11:12
 tags: Redis
 ---
 ## 设置开机自动启动

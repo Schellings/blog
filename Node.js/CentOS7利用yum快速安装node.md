@@ -1,6 +1,6 @@
 ---
 title: CentOS7利用yum快速安装node.js
-date: 2019-04-15 22:11:12
+date: 2018-04-15 22:11:12
 tags: Node.js
 ---
 

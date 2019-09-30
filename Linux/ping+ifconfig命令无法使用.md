@@ -1,7 +1,7 @@
 
 ---
 title: ping/ifconfig命令无法使用
-date: 2019-02-27 16:56:24
+date: 2018-02-27 16:56:24
 tags: Linux
 ---
 

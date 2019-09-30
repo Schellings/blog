@@ -1,6 +1,6 @@
 ---
 title: 修改 IDEA Terminal 为 Cmder
-date: 2019-01-06 18:56:24
+date: 2018-01-06 18:56:24
 tags: 工具使用
 ---
 # 修改 IDEA Terminal 为 Cmder
