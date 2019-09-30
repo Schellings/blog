@@ -5,7 +5,7 @@ tags:
     - Java
 ---
 
-java的访问权限有四种，public，protected，默认，private
+java的访问权限有四种，public，protected，默认（friendly），private
 
 四种权限作用图。Y代表可以访问到。
 
