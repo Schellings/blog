@@ -2,7 +2,6 @@
 title: Mybatis基础
 date: 2017-05-21 19:56:24
 tags: 
-    - ORM
     - Mybatis
 ---
 ## Mybatis初识

@@ -2,7 +2,6 @@
 title: Mybatis中常见的问题总结（一）
 date: 2017-06-09 19:56:24
 tags: 
-    - ORM
     - Mybatis
 ---
 
