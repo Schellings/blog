@@ -1,5 +1,5 @@
 ---
-title: Twitter 雪花算法
+title: Twitter 雪花算法(Snowflake)
 date: 2018-12-10 16:56:24
 tags: 算法与数据结构
 ---
