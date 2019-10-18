@@ -3,7 +3,7 @@ title: 分布式线程安全-Zookeeper
 date: 2018-01-15 19:56:24
 tags: 
     - 分布式
-    - 并发
+    - Zookeeper
 top: 10
 ---
 # 基于Zookeeper实现的分布式锁
