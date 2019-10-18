@@ -1,5 +1,5 @@
 ---
-title: Zookeeper已经分布式环境中的假死脑裂
+title: Zookeeper分布式环境中的假死脑裂
 date: 2018-12-27 19:56:24
 tags: 
     - 分布式
