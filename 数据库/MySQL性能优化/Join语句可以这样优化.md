@@ -93,7 +93,7 @@ sql1 的大致流程如下：
 
 在前面，我们有说到：如果被驱动表的关联字段没索引，就会使用 Block Nested-Loop Join(简称：BNL)，为什么会选择使用 BNL 算法而不继续使用 Nested-Loop Join呢？下面就一起分析下：
 
-## Block Nested-Loop Join 算法
+### Block Nested-Loop Join 算法
 
 Block Nested-Loop Join(BNL) 算法的思想是：把驱动表的数据读入到 join_buffer 中，然后扫描被驱动表，把被驱动表每一行取出来跟
 join_buffer 中的数据做对比，如果满足 join 条件，则返回结果给客户端。
@@ -124,7 +124,7 @@ join_buffer 里的数据是无序的，因此对表 t1 中的每一行，都要�
 
 显然后者磁盘扫描的次数少很多，因此是更优的选择。因此对于 MySQL 的关联查询，如果被驱动表的关联字段没索引，会使用 BNL 算法。
 
-## Batched Key Access 算法
+### Batched Key Access 算法
 在学了 NLJ 和 BNL 算法后，你是否有个疑问，如果把 NLJ 与 BNL 两种算法的一些优秀的思想结合，是否可行呢？
 比如 NLJ 的关键思想是：被驱动表的关联字段有索引。
 而 BNL 的关键思想是：把驱动表的数据批量提交一部分放到 join_buffer 中。
