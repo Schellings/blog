@@ -48,7 +48,7 @@ done
 
 ```yaml
 #!/bin/bash
-echo start instener blog!!""
+echo "start instener blog!!"
 inotifywait -m -e close_write -r /root/WorkSpace/hexo/source |
 while read events;
 do
