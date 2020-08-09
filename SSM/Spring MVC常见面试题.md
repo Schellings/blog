@@ -4,6 +4,7 @@ date: 2017-06-18 19:56:24
 tags: 
     - Spring MVC
 ---
+<meta name="referrer" content="no-referrer" />
 
 ## 什么是Spring MVC?作用？
 ```yaml

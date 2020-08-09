@@ -6,6 +6,7 @@ tags:
     - 算法
     - 字符串
 ---
+<meta name="referrer" content="no-referrer" />
 # 剑指offer面试题17--打印从1到最大的n位十进制数
 
 > ```

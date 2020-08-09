@@ -6,6 +6,7 @@ tags:
     - 算法
     - 树
 ---
+<meta name="referrer" content="no-referrer" />
 # 剑指off面试题34--二叉树中和为某一值的路径
 
 > ```

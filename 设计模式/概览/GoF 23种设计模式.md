@@ -4,6 +4,7 @@ date: 2018-09-18 19:56:24
 tags: 
     - 设计模式
 ---
+<meta name="referrer" content="no-referrer" />
 ## 前言
 
 设计模式有两种分类方法，即根据模式的目的来分和根据模式的作用的范围来分。

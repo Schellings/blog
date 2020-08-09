@@ -5,6 +5,7 @@ tags:
     - 源码
     - Java
 ---
+<meta name="referrer" content="no-referrer" />
 ## Long
 ### 缓存
 Long 最被我们关注的就是 Long 的缓存问题，Long 自己实现了一种缓存机制，缓存了从

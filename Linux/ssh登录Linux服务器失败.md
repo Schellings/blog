@@ -3,6 +3,7 @@ title: ssh登录Linux服务器失败
 date: 2018-02-27 16:56:24
 tags: Linux
 ---
+<meta name="referrer" content="no-referrer" />
 # 问题描述
 当我们ssh root@ip登录Linux服务器时，服务器报错：
 

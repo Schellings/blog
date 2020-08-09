@@ -4,6 +4,7 @@ date: 2018-01-24 16:56:24
 tags: 
     - Nginx
 ---
+<meta name="referrer" content="no-referrer" />
 
 
 ## 添加源

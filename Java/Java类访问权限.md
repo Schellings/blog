@@ -4,6 +4,7 @@ date: 2017-05-15 19:56:24
 tags: 
     - Java
 ---
+<meta name="referrer" content="no-referrer" />
 
 java的访问权限有四种，public，protected，默认（friendly），private
 

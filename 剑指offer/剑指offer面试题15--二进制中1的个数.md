@@ -6,6 +6,7 @@ tags:
     - 算法
     - 位运算
 ---
+<meta name="referrer" content="no-referrer" />
 # 剑指offer面试题15--二进制中1的个数
 
 > ```

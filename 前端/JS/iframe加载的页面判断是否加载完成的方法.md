@@ -4,6 +4,7 @@ date: 2018-08-27 19:56:24
 tags: 
     - JS
 ---
+<meta name="referrer" content="no-referrer" />
 head中添加
 ```html
 <head><meta http-equiv="X-UA-Compatible" content="IE=10" /></head>

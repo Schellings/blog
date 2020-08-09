@@ -5,6 +5,7 @@ tags:
     - Spring Boot
     - Swagger
 ---
+<meta name="referrer" content="no-referrer" />
 ## 高级配置
 
 ### 文档相关描述配置

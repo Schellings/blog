@@ -3,6 +3,7 @@ title: 短小精悍的GIF录制软件LICEcap
 date: 2018-04-12 22:11:12
 tags: 工具使用
 ---
+<meta name="referrer" content="no-referrer" />
 
 ## 前言
 

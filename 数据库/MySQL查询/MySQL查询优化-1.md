@@ -3,6 +3,7 @@ title: MySQL查询优化（一）
 date: 2018-09-15 16:56:24
 tags: MySQL
 ---
+<meta name="referrer" content="no-referrer" />
 
 # 以下介绍几种常用的SQL查询优化方法
 

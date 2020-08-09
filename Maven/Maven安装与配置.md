@@ -3,6 +3,7 @@ title: Maven安装与配置
 date: 2018-02-23 16:56:24
 tags: Maven
 ---
+<meta name="referrer" content="no-referrer" />
 # 1、maven初识
 Maven 翻译为"专家"、"内行"，是 Apache 下的一个纯 Java 开发的开源项目。基于项目对象模型（缩写：POM）概念，Maven利用一个中央信息片断能管理一个项目的构建、报告和文档等步骤。
 

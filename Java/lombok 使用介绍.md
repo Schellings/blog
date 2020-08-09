@@ -4,6 +4,7 @@ date: 2019-02-19 19:56:24
 tags: 
     - Java
 ---
+<meta name="referrer" content="no-referrer" />
 
 ## Lombok使用
 

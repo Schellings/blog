@@ -6,6 +6,7 @@ tags:
     - 算法
     - 动态规划
 ---
+<meta name="referrer" content="no-referrer" />
 # 剑指offer面试题47--礼物的最大价值
 
 >   ```

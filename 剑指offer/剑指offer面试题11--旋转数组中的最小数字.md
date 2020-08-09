@@ -6,6 +6,7 @@ tags:
     - 算法
     - 数组
 ---
+<meta name="referrer" content="no-referrer" />
 # 剑指offer面试题11--旋转数组中的最小数字
 
 > ```

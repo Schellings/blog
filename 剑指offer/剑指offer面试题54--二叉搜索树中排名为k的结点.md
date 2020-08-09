@@ -6,6 +6,7 @@ tags:
     - 算法
     - 树
 ---
+<meta name="referrer" content="no-referrer" />
  
 # 剑指offer面试题54--二叉搜索树中排名为k的结点
 

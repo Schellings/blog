@@ -3,6 +3,7 @@ title: Spring Boot监控与管理
 date: 2018-01-25 16:56:24
 tags: Spring Boot
 ---
+<meta name="referrer" content="no-referrer" />
 # 1、前言
 在微服务架构中，我们将原本庞大的单体系统拆分成多个提供不同服务的应用。虽然各个应用的内部逻辑因分解而得到简化，但是由于部署应用的数量成倍增长，使得系统的维护复杂度大大提高。
 

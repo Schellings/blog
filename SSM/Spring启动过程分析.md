@@ -4,6 +4,7 @@ date: 2017-06-25 19:56:24
 tags: 
     - Spring
 ---
+<meta name="referrer" content="no-referrer" />
 
 ## Spring简介
 

@@ -3,6 +3,7 @@ title: Elasticsearch7.1中文文档-初识
 date: 2018-10-03 16:56:24
 tags: Elasticsearch
 ---
+<meta name="referrer" content="no-referrer" />
 
 原文地址：https://juejin.im/post/5cf77ef16fb9a07eeb1396df
 

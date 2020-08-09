@@ -6,6 +6,7 @@ tags:
     - 算法
     - 字符串
 ---
+<meta name="referrer" content="no-referrer" />
 # 剑指offer面试题46--把数字翻译成字符串
 
 >   ```

@@ -1,5 +1,11 @@
-## idea无法给接口实现方法加上@override注解（手动加上报错）
-
+---
+title: override注解报错，接口无法实现
+date: 2020-02-11 19:56:24
+tags: 
+    - Java
+---
+<meta name="referrer" content="no-referrer" />
+## @override 注解报错
 
 在项目依赖中增加以下配置：
 

@@ -5,6 +5,7 @@ tags:
     - 分布式
     - Zookeeper
 ---
+<meta name="referrer" content="no-referrer" />
 
 ## Zookeeper简介
 

@@ -4,6 +4,7 @@ date: 2018-08-19 16:56:24
 tags: 
      - 容器
 ---
+<meta name="referrer" content="no-referrer" />
 1、停止所有容器
 ```yaml
 docker stop `docker ps -a -q`

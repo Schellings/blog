@@ -4,6 +4,7 @@ date: 2018-01-25 16:56:24
 tags: 
     - Nginx
 ---
+<meta name="referrer" content="no-referrer" />
 # nginx概述
 1、nginx是一款自由的、开源的、高性能的HTTP服务器和反向代理服务器
 

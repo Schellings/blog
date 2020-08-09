@@ -3,6 +3,7 @@ title: 一、Linux基本命令
 date: 2018-03-03 16:56:24
 tags: Linux
 ---
+<meta name="referrer" content="no-referrer" />
 
 # 一、Linux基本命令
 ## 1.1 关机和重启

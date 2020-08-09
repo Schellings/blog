@@ -5,6 +5,7 @@ tags:
     - 面试
     - 算法
 ---
+<meta name="referrer" content="no-referrer" />
 # 剑指offer面试题65--不用加减乘除做加法
 
 ```text

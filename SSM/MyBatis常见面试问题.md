@@ -4,6 +4,7 @@ date: 2017-06-07 19:56:24
 tags: 
     - Mybatis
 ---
+<meta name="referrer" content="no-referrer" />
 ## #{}和${}的区别是什么？
 ```yaml
 #{}是预编译处理，${}是字符串替换。

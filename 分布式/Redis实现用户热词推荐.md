@@ -4,6 +4,7 @@ date: 2019-01-03 19:56:24
 tags: 
     - Redis
 ---
+<meta name="referrer" content="no-referrer" />
 
 ## 数据结构设计
 

@@ -5,6 +5,7 @@ tags:
     - 协议
 top: 10
 ---
+<meta name="referrer" content="no-referrer" />
 # 大纲
 ![image](http://on-img.com/chart_image/5b5039cbe4b067df59e110dd.png)
 

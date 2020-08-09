@@ -4,6 +4,7 @@ date: 2018-11-20 19:56:24
 tags: 
     - Java
 ---
+<meta name="referrer" content="no-referrer" />
 ## 转换方法
 
 使用poi文件解析包

@@ -5,6 +5,7 @@ tags:
     - 面试
     - 算法
 ---
+<meta name="referrer" content="no-referrer" />
 # 剑指offer面试题44--数字序列中的某一位数字
 
 >   ```

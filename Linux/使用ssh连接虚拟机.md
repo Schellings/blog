@@ -3,6 +3,7 @@ title: 使用ssh连接虚拟机
 date: 2018-02-27 16:56:24
 tags: Linux
 ---
+<meta name="referrer" content="no-referrer" />
 1.查看防火墙状态
 
 ```

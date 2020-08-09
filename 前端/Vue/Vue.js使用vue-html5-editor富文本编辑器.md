@@ -4,6 +4,7 @@ date: 2017-07-28 19:56:24
 tags: 
     - Vue
 ---
+<meta name="referrer" content="no-referrer" />
 
 ## 基础环境安装配置
 ```yaml

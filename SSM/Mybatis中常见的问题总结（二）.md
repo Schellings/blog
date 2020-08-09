@@ -4,6 +4,7 @@ date: 2017-06-11 19:56:24
 tags: 
     - Mybatis
 ---
+<meta name="referrer" content="no-referrer" />
 
 ## 参数为集合
 

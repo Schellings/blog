@@ -4,6 +4,7 @@ date: 2018-08-25 19:56:24
 tags: 
     - 单点登录
 ---
+<meta name="referrer" content="no-referrer" />
 
 ##  前言
 

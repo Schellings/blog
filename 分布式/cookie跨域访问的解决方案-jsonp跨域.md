@@ -4,6 +4,7 @@ date: 2018-05-21 19:56:24
 tags: 
     - Cookie跨域
 ---
+<meta name="referrer" content="no-referrer" />
 ## 同源策略
 要了解跨域，必须先了解浏览器同源策略，接下来搬运了一些大神的总结:
 

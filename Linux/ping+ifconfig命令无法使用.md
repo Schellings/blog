@@ -4,6 +4,7 @@ title: ping/ifconfig命令无法使用
 date: 2018-02-27 16:56:24
 tags: Linux
 ---
+<meta name="referrer" content="no-referrer" />
 
 Centos7镜像安装完了发现基础的ping/ifconfig命令都是无法使用
 - 修改网络配置

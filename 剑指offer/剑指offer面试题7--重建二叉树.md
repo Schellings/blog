@@ -6,6 +6,7 @@ tags:
     - 算法
     - 二叉树
 ---
+<meta name="referrer" content="no-referrer" />
 # 剑指offer面试题7--重建二叉树
 
 > ```

@@ -6,6 +6,7 @@ tags:
     - 算法
     - 树
 ---
+<meta name="referrer" content="no-referrer" />
 # 剑指offer面试题37--序列化二叉树
 
 >   请实现两个函数，分别用来序列化和反序列化二叉树。

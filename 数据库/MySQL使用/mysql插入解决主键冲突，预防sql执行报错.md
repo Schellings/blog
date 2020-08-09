@@ -3,6 +3,7 @@ title: MySQL插入解决主键冲突，预防sql执行报错
 date: 2019-03-10 16:56:24
 tags: MySQL
 ---
+<meta name="referrer" content="no-referrer" />
 
 三种方案：
 

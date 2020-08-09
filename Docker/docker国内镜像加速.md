@@ -3,6 +3,7 @@ title: Docker国内镜像加速
 date: 2018-03-31 16:56:24
 tags: 容器
 ---
+<meta name="referrer" content="no-referrer" />
 # 镜像加速器
 请在 **/etc/docker/daemon.json** 中写入如下内容（如果文件不存在请新建该文件）
 

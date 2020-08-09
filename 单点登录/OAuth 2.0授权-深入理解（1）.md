@@ -5,6 +5,7 @@ tags:
     - 单点登录
     - 协议
 ---
+<meta name="referrer" content="no-referrer" />
 
 ## 背景
 

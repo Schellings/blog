@@ -4,6 +4,7 @@ tags:
   - 工具使用
 date: '2019-02-21 15:10'
 ---
+<meta name="referrer" content="no-referrer" />
 
 ## 方法
 

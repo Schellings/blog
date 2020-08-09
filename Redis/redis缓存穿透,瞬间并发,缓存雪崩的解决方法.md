@@ -3,6 +3,7 @@ title: redis缓存穿透,瞬间并发,缓存雪崩的解决方法
 date: 2019-01-10 19:11:12
 tags: Redis
 ---
+<meta name="referrer" content="no-referrer" />
 
 ## 缓存穿透 
 

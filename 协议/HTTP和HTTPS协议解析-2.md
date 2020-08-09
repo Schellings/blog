@@ -5,6 +5,7 @@ tags:
     - 协议
 top: 10
 ---
+<meta name="referrer" content="no-referrer" />
 
 # 四、HTTP通信传输
 ![image](https://img-blog.csdn.net/20180719094739178?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3hpYW9taW5nMTAwMDAx/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)

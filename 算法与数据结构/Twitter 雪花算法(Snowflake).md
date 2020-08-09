@@ -3,6 +3,7 @@ title: Twitter 雪花算法(Snowflake)
 date: 2018-12-10 16:56:24
 tags: 算法与数据结构
 ---
+<meta name="referrer" content="no-referrer" />
 
 ## 前言
 雪花算法是一种生成分布式全局唯一ID的经典算法，主要用于解决主键重复的问题。

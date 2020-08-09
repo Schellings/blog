@@ -4,6 +4,7 @@ tags:
   - 工具使用
 date: '2018-11-03 15:10'
 ---
+<meta name="referrer" content="no-referrer" />
 
 ## 激活码
 ```yaml

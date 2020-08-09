@@ -3,6 +3,7 @@ title: 分布式 ID 生成器
 date: 2018-12-06 16:56:24
 tags: MySQL
 ---
+<meta name="referrer" content="no-referrer" />
 
 ## 分布式 ID 生成器
 

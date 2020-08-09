@@ -3,6 +3,7 @@ title: Spring Boot 一些常用的注解介绍（二）
 date: 2018-01-28 19:56:24
 tags: Spring Boot
 ---
+<meta name="referrer" content="no-referrer" />
 ## 一、简言
 ```yaml
 在spring boot的开发中常常会用到注解 :

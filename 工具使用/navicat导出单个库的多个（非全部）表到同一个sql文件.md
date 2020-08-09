@@ -4,6 +4,7 @@ date: 2018-11-07 19:56:24
 tags: 
     - 工具使用
 ---
+<meta name="referrer" content="no-referrer" />
 
 ## 工具版本
 

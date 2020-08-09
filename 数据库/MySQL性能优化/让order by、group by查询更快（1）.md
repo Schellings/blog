@@ -5,6 +5,7 @@ tags:
   - SQL优化
   - MySQL
 ---
+<meta name="referrer" content="no-referrer" />
 ## 前言
 在工作中，我们应该经常会遇到需要对查询的结果进行排序或者分组的情况。你是否会在意这两类 SQL 的执行效率呢？这篇文稿就一起讨论下如
 何优化 order by 和 group by 语句。

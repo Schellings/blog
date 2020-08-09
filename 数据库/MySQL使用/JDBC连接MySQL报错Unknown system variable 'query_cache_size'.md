@@ -3,6 +3,7 @@ title: JDBC连接MySQL报错Unknown system variable 'query_cache_size'
 date: 2018-02-18 16:56:24
 tags: MySQL
 ---
+<meta name="referrer" content="no-referrer" />
 # 问题描述
 如题，在使用jdbc连接MySQL时报错，出现了一个
 

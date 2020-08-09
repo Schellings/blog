@@ -5,6 +5,7 @@ tags:
     - 源码
     - Java
 ---
+<meta name="referrer" content="no-referrer" />
 
 ## 前言
 

@@ -3,6 +3,7 @@ title: Linux文件夹监听
 date: 2019-03-05 16:56:24
 tags: Linux
 ---
+<meta name="referrer" content="no-referrer" />
 
 ## 前言
 

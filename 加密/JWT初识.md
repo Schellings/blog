@@ -4,6 +4,7 @@ date: 2018-07-05 19:56:24
 tags: 
     - 加密
 ---
+<meta name="referrer" content="no-referrer" />
 
 ## JWT(JSON Web Token)
 

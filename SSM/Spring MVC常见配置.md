@@ -4,6 +4,7 @@ date: 2017-06-21 19:56:24
 tags: 
     - Spring MVC
 ---
+<meta name="referrer" content="no-referrer" />
 
 Spring MVC项目中通常会有二个配置文件，sprng-servlet.xml和applicationContext.xml二个配置文件。
 

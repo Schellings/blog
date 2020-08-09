@@ -6,6 +6,7 @@ tags:
     - 算法
     - 栈
 ---
+<meta name="referrer" content="no-referrer" />
 # 剑指offer面试题30--包含min方法的栈
 
 > ```

@@ -4,6 +4,7 @@ date: 2018-07-12 19:56:24
 tags: 
     - Mybatis
 ---
+<meta name="referrer" content="no-referrer" />
 修改前：
 ```yaml
 <insert id="insertFile" parameterMap="link.guiderole.domain.GrFileVO">

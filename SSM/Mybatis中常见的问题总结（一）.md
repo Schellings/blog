@@ -4,6 +4,7 @@ date: 2017-06-09 19:56:24
 tags: 
     - Mybatis
 ---
+<meta name="referrer" content="no-referrer" />
 
 ## org.apache.ibatis.binding.BindingException: Parameter 'XXXX' not found.
 

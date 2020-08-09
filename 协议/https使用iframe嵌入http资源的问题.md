@@ -4,6 +4,7 @@ date: 2019-01-07 19:56:24
 tags: 
     - 协议
 ---
+<meta name="referrer" content="no-referrer" />
 
 ## 目前现象
 https 网站使用iframe嵌入http资源网站的内容，会弹出“是否加载不安全的内容”的提示，点击“加载”按钮后显示正常。对用户来说显示不友好。

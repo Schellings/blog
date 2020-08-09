@@ -6,6 +6,7 @@ tags:
     - 算法
     - 回溯
 ---
+<meta name="referrer" content="no-referrer" />
 # 剑指offer面试题12--矩阵中的路径
 
 > ```

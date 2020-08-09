@@ -4,6 +4,7 @@ date: 2017-06-05 19:56:24
 tags: 
     - Mybatis
 ---
+<meta name="referrer" content="no-referrer" />
 ## 引言
 在mybatis的基础知识中我们已经可以对mybatis的工作方式窥斑见豹。但是，为什么还要要学习mybatis的工作原理？
 

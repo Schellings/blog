@@ -4,6 +4,7 @@ date: 2018-05-05 19:56:24
 tags: 
     - 工具使用
 ---
+<meta name="referrer" content="no-referrer" />
 ## 基础环境安装
 本次是在CentOS 7.6环境下部署
 ### Git安装

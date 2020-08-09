@@ -3,6 +3,7 @@ title: MySQL性能优化（一）
 date: 2018-02-05 16:56:24
 tags: MySQL
 ---
+<meta name="referrer" content="no-referrer" />
 # 1、 MySQL现状
 MySQL 应该是最流行了 Web 后端数据库。Web 开发语言近期发展非常快，PHP， Ruby, Python, Java 各有特点，尽管 NOSQL 近期越來越多的被提到，可是相信大部分架构师还是会选择 MYSQL 来做数据存储。
 

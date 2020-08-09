@@ -3,6 +3,7 @@ title: com.mysql.jdbc.Driver 和 com.mysql.cj.jdbc.Driver的区别
 date: 2018-02-14 16:56:24
 tags: MySQL
 ---
+<meta name="referrer" content="no-referrer" />
 一句话：
 
 - com.mysql.jdbc.Driver 是 mysql-connector-java 5中的，

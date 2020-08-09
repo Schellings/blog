@@ -3,6 +3,7 @@ title: Eclipse JDBC Class.forName(Unknown Source)
 date: 2018-02-18 16:56:24
 tags: MySQL
 ---
+<meta name="referrer" content="no-referrer" />
 # 问题描述
 
 在执行Class.forName(driver);时，控制台报出以下错误：

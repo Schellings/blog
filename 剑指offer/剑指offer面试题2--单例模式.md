@@ -6,6 +6,7 @@ tags:
     - 算法
     - 设计模式
 ---
+<meta name="referrer" content="no-referrer" />
 
 ## 剑指offer面试题2--单例模式
 

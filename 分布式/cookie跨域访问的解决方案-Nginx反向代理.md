@@ -5,6 +5,7 @@ tags:
     - Cookie跨域
     - Nginx
 ---
+<meta name="referrer" content="no-referrer" />
 
 ## 什么是跨域
 

@@ -3,6 +3,7 @@ title: Git环境安装
 date: 2018-03-20 16:56:24
 tags: Git
 ---
+<meta name="referrer" content="no-referrer" />
 # 1、Git初识
 Git 是一个开源的分布式版本控制系统，用于敏捷高效地处理任何或小或大的项目。
 

@@ -3,6 +3,7 @@ title: 谷歌浏览器crx插件安装失败
 date: 2018-09-12 22:11:12
 tags: 工具使用
 ---
+<meta name="referrer" content="no-referrer" />
 
 ## 前言
 某些用户在Chrome插件网下载了Chrome插件后，不知道怎么才能把它安装到Chrome浏览器中，用户可以根据本站提供的教程：怎么在谷歌浏览器中安装.crx扩展名的离线Chrome插件？把下载后的扩展名为crx的Chrome插件安装到谷歌浏览器中。

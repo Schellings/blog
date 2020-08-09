@@ -6,6 +6,7 @@ tags:
     - 算法
     - 动态规划
 ---
+<meta name="referrer" content="no-referrer" />
 # 剑指offer面试题14--剪绳子
 
 > ```

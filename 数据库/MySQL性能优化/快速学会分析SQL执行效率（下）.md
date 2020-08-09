@@ -5,6 +5,7 @@ tags:
   - SQL优化
   - MySQL
 ---
+<meta name="referrer" content="no-referrer" />
 
 在上一节我们学习了定位慢 SQL 及使用 explain 分析慢 SQL，我们也提到了分析慢 SQL 还有 show profile 和 trace 等方法，本节就重点补充学习这两种方法。
 

@@ -6,6 +6,7 @@ tags:
     - 算法
     - 队列
 ---
+<meta name="referrer" content="no-referrer" />
  
 ## 剑指offer面试题59--队列的最大值
 

@@ -6,6 +6,7 @@ tags:
     - 算法
     - 字符串
 ---
+<meta name="referrer" content="no-referrer" />
 # 剑指offer面试题48--最长不含重复字符串的子字符串
 
 >   ```

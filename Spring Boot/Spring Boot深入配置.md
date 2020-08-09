@@ -3,6 +3,7 @@ title: Spring Boot深入配置
 date: 2018-01-22 16:56:24
 tags: Spring Boot
 ---
+<meta name="referrer" content="no-referrer" />
 # 1、前言
 在上一节，我们对Spring Boot有了一个大致的认识，通过实现的一个简单的Restful API应用，体验了Spring Boot的诸多优点。虽然在实现Controller中实现的代码大体一致，但是在配置方面，除了maven中对Starters POMs的依赖配置，基本上没有引入其他配置，这大大减小了我们在项目初始模板创建时的难度。
 

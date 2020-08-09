@@ -4,6 +4,7 @@ date: 2017-05-21 19:56:24
 tags: 
     - Mybatis
 ---
+<meta name="referrer" content="no-referrer" />
 ## Mybatis初识
 MyBatis是一个比较优秀的、开源的数据持久层框架，它可以在实体类与SQL语句之间建立映射关系，替开发人员完成了JavaBean组件与数据库记录实体之间的转化，是一种半自动化的ORM实现。
 

@@ -5,6 +5,7 @@ tags:
     - Java虚拟机
     - 内存管理
 ---
+<meta name="referrer" content="no-referrer" />
 
 # Java 内存分配策略
 ![内存分配与回收策略.png](pic/内存分配与回收策略.png)

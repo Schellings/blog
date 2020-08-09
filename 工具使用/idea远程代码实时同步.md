@@ -4,6 +4,7 @@ tags:
   - 工具使用
 date: '2018-05-27 15:10'
 ---
+<meta name="referrer" content="no-referrer" />
 ## 前言
 
 开发时一般的平台都是windows，但windows对开发极其不友好，一般都会在本地开启虚拟机，安装上linux环境进行项目的部署测试。下面介绍一种windows主机与linux虚拟机代码同步的方法。

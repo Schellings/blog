@@ -5,6 +5,7 @@ tags:
     - 源码
     - Java
 ---
+<meta name="referrer" content="no-referrer" />
 
 ## 前言
 String 和 Long 大家都很熟悉，本小节主要结合实际的工作场景，来一起看下 String 和 Long

@@ -3,6 +3,7 @@ title: Hexo博客备份
 date: 2019-04-11 16:56:24
 tags: 工具使用
 ---
+<meta name="referrer" content="no-referrer" />
 
 # blog
 我的博客备份-基于hexo搭建

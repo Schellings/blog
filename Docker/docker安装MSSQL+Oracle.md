@@ -5,6 +5,7 @@ tags:
      - 容器
      - 数据库
 ---
+<meta name="referrer" content="no-referrer" />
 
 ## docker安装mssql
 

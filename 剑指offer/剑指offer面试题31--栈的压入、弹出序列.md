@@ -6,6 +6,7 @@ tags:
     - 算法
     - 栈
 ---
+<meta name="referrer" content="no-referrer" />
 # 剑指offer面试题31--栈的压入、弹出序列
 
 > ```

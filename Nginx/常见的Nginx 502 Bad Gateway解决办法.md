@@ -4,6 +4,7 @@ date: 2018-09-10 16:56:24
 tags: 
     - Nginx
 ---
+<meta name="referrer" content="no-referrer" />
 
 ## Nginx 502错误情况1：
 网站的访问量大，而php-cgi的进程数偏少。

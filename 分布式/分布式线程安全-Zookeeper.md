@@ -6,6 +6,7 @@ tags:
     - Zookeeper
 top: 10
 ---
+<meta name="referrer" content="no-referrer" />
 # 基于Zookeeper实现的分布式锁
 基于zookeeper临时有序节点可以实现的分布式锁。
 

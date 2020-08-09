@@ -5,6 +5,7 @@ tags:
   - SQL优化
   - MySQL
 ---
+<meta name="referrer" content="no-referrer" />
 ## 前言
 比如你维护着一张电商订单表，业务的需求是查找所有订单数，开发很快能写出对应的 SQL ：
 ```sql

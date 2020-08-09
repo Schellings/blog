@@ -4,6 +4,7 @@ date: 2018-04-23 19:11:12
 tags: 
     - 协议
 ---
+<meta name="referrer" content="no-referrer" />
 ## 1xx:信息
 ### 100 Continue
 服务器仅接收到部分请求，但是一旦服务器并没有拒绝该请求，客户端应该继续发送其余的请求。

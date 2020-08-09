@@ -5,6 +5,7 @@ tags:
     - Java
     - 多线程
 ---
+<meta name="referrer" content="no-referrer" />
 
 ## 内存可见性
 volatile是Java提供的一种轻量级的同步机制，在并发编程中，它也扮演着比较重要的角色。

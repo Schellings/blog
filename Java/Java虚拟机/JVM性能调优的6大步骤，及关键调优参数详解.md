@@ -4,6 +4,7 @@ date: 2019-02-17 19:56:24
 tags: 
     - Java虚拟机
 ---
+<meta name="referrer" content="no-referrer" />
 
 ## 前言
 

@@ -3,6 +3,7 @@ title: 达梦数据库jdbc连接
 date: 2018-09-01 16:56:24
 tags: 数据库
 ---
+<meta name="referrer" content="no-referrer" />
 ```java
 import java.sql.Connection;
 import java.sql.DriverManager;

@@ -3,6 +3,7 @@ title: Spring Boot初识
 date: 2018-01-20 19:56:24
 tags: Spring Boot
 ---
+<meta name="referrer" content="no-referrer" />
 # 1、前言
 在展开Spring Cloud的微服务架构部署之前，我们先通过本系列的内容了解一下用于构建微服务的基础架构——**Spring Boot**。对于Spring Boot已经有了深入了解的读者可以直接跳过本节，直接进入下一系列学习Spring Cloud各个组件的使用。
 

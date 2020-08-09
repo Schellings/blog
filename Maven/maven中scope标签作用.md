@@ -3,6 +3,7 @@ title: maven中scope标签作用
 date: 2018-07-25 16:56:24
 tags: Maven
 ---
+<meta name="referrer" content="no-referrer" />
 
 scope 是用来限制 dependency 的作用范围的，影响 maven 项目在各个生命周期时导入的 package 的状态，主要管理依赖的部署。
 

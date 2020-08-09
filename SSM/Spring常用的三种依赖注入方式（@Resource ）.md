@@ -4,6 +4,7 @@ date: 2017-07-08 19:56:24
 tags: 
     - Spring
 ---
+<meta name="referrer" content="no-referrer" />
 
 Spring 不但支持自己定义的 @Autowired 的注解，还支持几个由 JSR-250 规范定义的注解，它们分别是 @Resource、@PostConstruct 以及 @PreDestroy。
 

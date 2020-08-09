@@ -3,6 +3,7 @@ title: MySQL无法连接 Unable to load authentication plugin 'caching_sha2_pass
 date: 2018-02-16 16:56:24
 tags: MySQL
 ---
+<meta name="referrer" content="no-referrer" />
 # 问题分析
 这个是因为，mysql8之前的版本使用的密码加密规则是mysql_native_password，但是在mysql8则是caching_sha2_password，所以需要修改密码加密规则。
 

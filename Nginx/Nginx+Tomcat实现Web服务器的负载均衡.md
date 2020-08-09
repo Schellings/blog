@@ -5,6 +5,7 @@ tags:
     - Nginx
     - 负载均衡
 ---
+<meta name="referrer" content="no-referrer" />
 ## 拓扑环境
 
 服务器名称	| 系统版本 |	预装软件 |	IP地址 

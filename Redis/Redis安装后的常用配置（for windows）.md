@@ -3,6 +3,7 @@ title: Redis安装后的常用配置（for windows）
 date: 2018-04-17 19:11:12
 tags: Redis
 ---
+<meta name="referrer" content="no-referrer" />
 ## 设置开机自动启动
 
 ### 打开cmd窗口并输入：services.msc

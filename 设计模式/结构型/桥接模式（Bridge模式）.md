@@ -4,6 +4,7 @@ date: 2019-03-12 16:56:24
 tags: 
   - 设计模式
 ---
+<meta name="referrer" content="no-referrer" />
 
 ## 前言
 

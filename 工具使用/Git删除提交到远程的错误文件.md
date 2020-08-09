@@ -5,6 +5,7 @@ tags:
     - 工具使用
     - Git
 ---
+<meta name="referrer" content="no-referrer" />
 
 ## 前言
 用 git rm 来删除文件，同时还会将这个删除操作记录下来；

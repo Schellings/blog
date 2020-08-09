@@ -3,6 +3,7 @@ title: CentOS7利用yum快速安装node.js
 date: 2018-04-15 22:11:12
 tags: Node.js
 ---
+<meta name="referrer" content="no-referrer" />
 
 ## 下载node.js
 V8.x: 

@@ -3,6 +3,7 @@ title: 为什么选Spring Cloud
 date: 2018-01-17 19:56:24
 tags: 微服务
 ---
+<meta name="referrer" content="no-referrer" />
 # 1、Spring Cloud简介
 Spring Cloud是一个基于Spring boot实现的微服务架构开发工具。它为微服务架构中涉及的配置管理、服务治理、断路由器、智能路由、微代理、控制总线、全局锁、决策竞选、分布式会话和集群状态管理等操作提供了一种简单的开发方式。
 > Spring Cloud—— 微服务架构集大成者，云计算最佳业务实践。

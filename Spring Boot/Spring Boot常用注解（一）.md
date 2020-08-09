@@ -3,6 +3,7 @@ title: Spring Boot 一些常用的注解介绍（一）
 date: 2018-01-26 19:56:24
 tags: Spring Boot
 ---
+<meta name="referrer" content="no-referrer" />
 ## Spring Boot 一些常用的注解介绍（一）
 
 ### @SpringBootApplication(scanBasePackages = {“com.qiu”}, exclude = {})

@@ -4,6 +4,7 @@ date: 2018-12-21 19:56:24
 tags: 
     - Java
 ---
+<meta name="referrer" content="no-referrer" />
 
 ## 前言
 

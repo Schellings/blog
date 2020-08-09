@@ -6,6 +6,7 @@ tags:
     - 算法
     - 树
 ---
+<meta name="referrer" content="no-referrer" />
 # 剑指offer面试题33--二叉搜索树的后序遍历序列
 
 > ```

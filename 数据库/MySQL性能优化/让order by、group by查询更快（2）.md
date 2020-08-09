@@ -5,6 +5,7 @@ tags:
   - SQL优化
   - MySQL
 ---
+<meta name="referrer" content="no-referrer" />
 ## 前言
 
 前面我们学习到MySQL中的两种排序方式：index sort + file sort，重点了解了file sort中的两种排序位置：内存 + 文件，其中文件排序包含三种排序方式：单路排序+双路排序+打包数据排序。

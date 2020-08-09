@@ -3,6 +3,7 @@ title: maven使用之packaging类型
 date: 2018-07-21 16:56:24
 tags: Maven
 ---
+<meta name="referrer" content="no-referrer" />
 
 项目的打包类型：pom、jar、war、maven-plugin
 

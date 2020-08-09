@@ -6,6 +6,7 @@ tags:
     - 算法
     - 正则表达式
 ---
+<meta name="referrer" content="no-referrer" />
 # 剑指offer面试题19--正则表达式匹配
 
 > ```

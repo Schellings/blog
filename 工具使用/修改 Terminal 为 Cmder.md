@@ -3,6 +3,7 @@ title: 修改 IDEA Terminal 为 Cmder
 date: 2018-01-06 18:56:24
 tags: 工具使用
 ---
+<meta name="referrer" content="no-referrer" />
 # 修改 IDEA Terminal 为 Cmder
 
 默认IDEA Terminal使用的是系统的cmd.exe，然而Cmder对于我们的使用更方便。因此用cmder替换cmd。

@@ -3,6 +3,7 @@ title: Hexo主题yelee增加网站阅读统计
 date: 2018-04-09 16:56:24
 tags: 工具使用
 ---
+<meta name="referrer" content="no-referrer" />
 Hexo的主题yelee默认没有对网站访问信息的统计，修改方法如下：
 
 ## 修改yelee关于不蒜子网站计数设置

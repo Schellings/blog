@@ -4,6 +4,7 @@ date: 2018-12-03 19:56:24
 tags: 
     - 单点登录
 ---
+<meta name="referrer" content="no-referrer" />
 
 ## 基本认证(Basic Authentication)
 

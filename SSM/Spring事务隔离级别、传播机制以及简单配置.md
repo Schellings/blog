@@ -4,6 +4,7 @@ date: 2017-07-08 19:56:24
 tags: 
     - Spring
 ---
+<meta name="referrer" content="no-referrer" />
 
 ## Spring支持的事务声明方式
 

@@ -5,6 +5,7 @@ tags:
     - Spring Boot
     - Swagger
 ---
+<meta name="referrer" content="no-referrer" />
 
 对于 Rest API 来说很重要的一部分内容就是文档，Swagger 为我们提供了一套通过代码和注解自动生成文档的方法，这一点对于保证 API 文档的及时性将有很大的帮助。
 

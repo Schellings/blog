@@ -5,6 +5,7 @@ tags:
     - 分布式
     - Redis
 ---
+<meta name="referrer" content="no-referrer" />
 
 ## 前言
 

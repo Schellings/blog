@@ -3,6 +3,7 @@ title: 执行MySQL语句报错：the right syntax to use near xxx
 date: 2018-02-16 16:56:24
 tags: MySQL
 ---
+<meta name="referrer" content="no-referrer" />
 # 问题产生的原因：
 - SQL语句拼写错误
 - 包含中文逗号，括号或问号等

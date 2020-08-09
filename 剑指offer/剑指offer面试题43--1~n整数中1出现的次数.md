@@ -5,6 +5,7 @@ tags:
     - 面试
     - 算法
 ---
+<meta name="referrer" content="no-referrer" />
 # 剑指offer面试题43--1~n整数中1出现的次数
 
 >   ```

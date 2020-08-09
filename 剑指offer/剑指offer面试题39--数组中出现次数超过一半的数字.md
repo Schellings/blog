@@ -6,6 +6,7 @@ tags:
     - 算法
     - 数组
 ---
+<meta name="referrer" content="no-referrer" />
 # 剑指offer面试题39--数组中出现次数超过一半的数字
 
 >   ```
