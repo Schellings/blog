@@ -1,5 +1,5 @@
 ---
-title: Warning: Permanently added the RSA host key for IP address
+title: Permanently added the RSA host key for IP address
 date: 2020-04-12 16:56:24
 tags: Git
 ---
