@@ -1,8 +1,8 @@
 ---
-title: Mysql覆盖索引和回表
-date: 2020-06-17 16:56:24
+title: 如何安全高效地删除大量无用数据
+date: 2020-06-26 16:56:24
 tags: 
-  - MySQL索引
+  - MySQL
 ---
 <meta name="referrer" content="no-referrer" />
 
