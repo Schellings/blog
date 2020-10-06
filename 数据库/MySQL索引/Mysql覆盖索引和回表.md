@@ -10,7 +10,7 @@ tags:
 
 ```
 select id,name where name='shenjian'
-select id,name,sex* where name='shenjian'*
+select id,name,sex where name='shenjian'
 ```
 
 多查询了一个属性，为何检索过程完全不同？
