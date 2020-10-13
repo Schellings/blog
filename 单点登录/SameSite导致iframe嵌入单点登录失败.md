@@ -33,7 +33,7 @@ Image	|`<img src="…">	`|发送 Cookie	|不发送
 
 ## 解决方案
 
-### 浏览器设置
+### 临时方案（浏览器设置）
 
 Firefox69 版本以上出现该问题
 - 地址栏输入：about:config
@@ -52,7 +52,9 @@ chrome80 版本以上出现该问题
 
 调整对应配置，重启浏览器
 
-### 服务端调整
+### 永久方案（服务端设置）
+
+服务端对于响应cookie时，显式关闭SameSite属性
 
 ```yaml
 response.addHeader("Set-Cookie", "_u=xxxx; Path=/Login; SameSite=None; Secure");
