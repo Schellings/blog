@@ -1,5 +1,5 @@
 ---
-title: SameSite导致iframe嵌入单点登录失败.md
+title: SameSite导致iframe嵌入单点登录失败
 date: 2020-07-16 22:11:12
 tags: 
     - 单点登录
@@ -11,8 +11,15 @@ tags:
 在多个接入单点登录业务系统，通过iframe嵌入其他系统页面时，单点登录请求无法携带cookie，导致单点登录失败，打开登录页
 ```
 
-## cookie携带场景
 
+## 原因
+
+Chrome80，Firefox69版本后，这两个浏览器支持了samesite属性，并对写入的cookie做了如下默认配置
+
+- cookie默认samesite值为Lax策略
+- 没有samesite属性的cookie必须要是Secure，即在https协议下写入cookie
+
+## cookie携带场景
 
 请求类型|	示例	|正常情况	|Lax
 ---|---|---|---
@@ -23,7 +30,6 @@ POST 表单|	`<form method=“POST” action="…">`|	发送 Cookie	|不发送
 iframe	|`<iframe src="…"></iframe>`	|发送 Cookie	|不发送
 AJAX|	`$.get("…")	`|发送 Cookie	|不发送
 Image	|`<img src="…">	`|发送 Cookie	|不发送
-
 
 ## 解决方案
 
