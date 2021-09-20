@@ -198,7 +198,7 @@ protected CloseableHttpResponse doExecute(
 
 ```
 
-在上面的例子中，我们初始化了一个基于连接池的连接管理器。这个连接池中最多持有200个连接，每个目标服务器最多持有40个连接。其中，我们专门设定了www.baidu.com:80的目标服务器的可以持有的最大连接数是80个。
+在上面的例子中，我们初始化了一个基于连接池的连接管理器。这个连接池中最多持有200个连接，每个目标服务器最多持有40个连接。其中，我们专门设定了 www.baidu.com:80 的目标服务器的可以持有的最大连接数是80个。
 
 如果我们不给httpclient配置指定的连接管理器，在默认情况下，httpclient也会自动使用PoolingHttpClientConnectionManager作为连接管理器。但是PoolingHttpClientConnectionManager默认的maxConnPerRoute和maxConnTotal分别是是2和20。也就是对于每个服务器最多只会维护2个连接，看起来有点少。所以，在日常使用时我们尽量使用自己配置的连接管理器比较好。
 
