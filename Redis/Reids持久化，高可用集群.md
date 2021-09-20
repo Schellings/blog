@@ -1,5 +1,5 @@
 ---
-title: Redis热点key大Value解决方案
+title: Reids持久化，高可用集群
 date: 2020-10-06 19:56:24
 tags:
 - Redis
