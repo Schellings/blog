@@ -51,5 +51,8 @@ PKCE的流程大概如下：
 
 具体参考 https://fusionauth.io/docs/v1/tech/oauth/endpoints/#authorize
 
+最后，在 OAuth 2.1 中，要求 PKCE 是 OAuth 2.1 必须支持的一种方式，所以基于 OAuth 2.1 的提供商我们一般可以认为他就是支持 PKCE 的。
+
+[oauth2和oauth2.1差异比较](https://fusionauth.io/learn/expert-advice/oauth/differences-between-oauth-2-oauth-2-1/)
 
 
